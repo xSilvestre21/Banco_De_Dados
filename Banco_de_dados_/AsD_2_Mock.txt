@@ -1,0 +1,13 @@
+AsD Mock --------------------------------------------------------------------------------> 
+
+01) Apresente uma cláusula SQL para mostrar os tutores sem gatos
+02) Apresente uma cláusula SQL para mostrar os gatos sem tutores
+03) Apresente uma cláusula SQL para mostrar os nomes dos gatos que ainda não tomaram todas as vacinas da nossa tabela de vacinas
+04) Apresente uma cláusula SQL para mostrar as vacinas que faltam para o gato Ping
+05) Apresente uma cláusula SQL para mostrar as vacinas que o gato Aharon já tomou
+06) Apresente uma cláusula SQL para mostrar os nomes dos tutores e dos gatos
+07) Apresente uma cláusula SQL para mostrar os nomes dos tutores e dos gatos que já tomaram todas as vacinas previstas na nossa tabela de vacinas
+08) Apresente uma cláusula SQL para mostrar os nomes dos tutores e dos gatos que ainda não tomaram todas as doses de vacinas previstas na nossa tabela de vacinas
+09) Apresente uma cláusula SQL para mostrar os tutores cujos gatos já tomaram a vacina contra Aids felina
+10) Apresente uma cláusula SQL para mostrar os tutores cujos gatos ainda não tomaram a vacina contra FeLV
+

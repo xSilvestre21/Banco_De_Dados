@@ -1,0 +1,1 @@
+select * from clientes inner join pessoa on cpf = fk_cpfclientes
